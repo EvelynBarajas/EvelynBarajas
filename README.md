@@ -7,3 +7,6 @@ I enjoy drawing in my free time as well as hiking when the weather is nice and w
 West Valley High School <br>
 Yakima Valley College- Associates in Computer Science <br>
 Heritage University- Bachelors in Computer Science/IN PROGRESS
+
+<br><br>
+I speak English and Spanish 😃
