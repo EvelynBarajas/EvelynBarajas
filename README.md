@@ -4,6 +4,6 @@ My name is Evelyn Barajas and I'm a junior at Heritage University majoring in Co
 I enjoy drawing in my free time as well as hiking when the weather is nice and warm and I like listening to music all the time.
 
 #### School
-West Valley High School
-Yakima Valley College- Associates in Computer Science
+West Valley High School <br>
+Yakima Valley College- Associates in Computer Science <br>
 Heritage University- Bachelors in Computer Science/IN PROGRESS
